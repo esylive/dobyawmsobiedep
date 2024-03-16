@@ -1,0 +1,23 @@
+{
+  "name": "dobyawmsobiedep",
+  "version": "1.0.0",
+  "description": "Added helper function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esylive/dobyawmsobiedep.git"
+  },
+  "dependencies": {
+    "completingknowledge": "1.0.0",
+    "goodcodec": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esylive/dobyawmsobiedep/issues"
+  },
+  "homepage": "https://github.com/esylive/dobyawmsobiedep#readme"
+}
